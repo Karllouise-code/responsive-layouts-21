@@ -8,4 +8,4 @@
 
 ## Screenshot
 
-![]()
+![](https://github.com/Karllouise-code/responsive-layouts-21/blob/main/Day-01/images/fullscreenshot.png)
