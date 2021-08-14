@@ -7,4 +7,8 @@ click on the folders to view my works**
 
 ### [Day 01](https://github.com/Karllouise-code/responsive-layouts-21/tree/main/Day-01)
 
+### [Day 02](https://github.com/Karllouise-code/responsive-layouts-21/tree/main/Day-02)
+
+### [Day 03](https://github.com/Karllouise-code/responsive-layouts-21/tree/main/Day-03)
+
 Challenged By: Kevin Powell
